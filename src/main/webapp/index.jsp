@@ -11,6 +11,6 @@ h2 {
 </style>
 </head>
 <body>
-	<h2>This is my jekins Test with version5.0, modified by yangjia on 14:09</h2>
+	<h2>This is my jekins Test with version6.0, modified by yangjia on 17:10</h2>
 </body>
 </html>
